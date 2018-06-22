@@ -33,7 +33,7 @@ public class basicTitleTest {
 	
 	//Title to check
 	public String QWE1="Facebook";
-	public String nodeURL = "http://selenium-hub:4444/wd/hub";
+	public String nodeURL = "http://localhost:4444/wd/hub";
 
 	public static void main(String[] args){
 		TestListenerAdapter tla = new TestListenerAdapter();
